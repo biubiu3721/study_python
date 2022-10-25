@@ -1,0 +1,1 @@
+PyCharm writes "Process finished with exit code 1" 0 and 1 are exit codes, and they are not necessarily python specific, in fact they are very common. exit code (0) means an exit without an errors or issues. exit code (1) means there was some issue / problem which caused the program to exit.
