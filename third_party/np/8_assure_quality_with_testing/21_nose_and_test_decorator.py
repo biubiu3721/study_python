@@ -4,7 +4,7 @@ Project   : numpy
 File Name : 21_nose_and_test_decorator
 Author    : Focus
 Date      : 8/23/2021 11:24 AM
-Keywords  : nose, decorator
+Keywords  : nose, decorator.py
 Abstract  :
             1. pip install nose
 Param     : 
